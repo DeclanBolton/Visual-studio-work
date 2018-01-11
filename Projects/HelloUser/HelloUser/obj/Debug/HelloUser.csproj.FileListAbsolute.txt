@@ -1,0 +1,6 @@
+c:\users\1283858\documents\visual studio 2015\Projects\HelloUser\HelloUser\bin\Debug\HelloUser.exe.config
+c:\users\1283858\documents\visual studio 2015\Projects\HelloUser\HelloUser\obj\Debug\HelloUser.csprojResolveAssemblyReference.cache
+c:\users\1283858\documents\visual studio 2015\Projects\HelloUser\HelloUser\bin\Debug\HelloUser.exe
+c:\users\1283858\documents\visual studio 2015\Projects\HelloUser\HelloUser\bin\Debug\HelloUser.pdb
+c:\users\1283858\documents\visual studio 2015\Projects\HelloUser\HelloUser\obj\Debug\HelloUser.exe
+c:\users\1283858\documents\visual studio 2015\Projects\HelloUser\HelloUser\obj\Debug\HelloUser.pdb
